@@ -94,7 +94,7 @@ function getWeatherEmoji(weatherId) {
             return "☁️";
         default:
             return "❓";
-}
+    }
 }
 
 function displayError(message) { 
@@ -106,4 +106,5 @@ function displayError(message) {
     card.textContent = '';
     card.style.display = 'flex';
     card.appendChild(errorDisplay);
+
 }
