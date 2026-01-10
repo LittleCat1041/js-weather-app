@@ -31,7 +31,7 @@ A dynamic weather dashboard app that fetches real-time data from the **OpenWeath
     1. Open `index.js`.
     2. Replace the `apikey` variable in ```const apikey = "YOUR_API_KEY_HERE";``` with your own OpenWeatherMap API key (Free tier).
      
-4. ### **Run the game**
+4. #**Run the game**
     #### Option 1: VS Code Live Server (Recommended)
     1. Open the folder in **VS Code**.
     2. Install the **"Live Server"** extension.
