@@ -33,13 +33,13 @@ git clone https://github.com/LittleCat1041/js-weather-app.git
  
 #### 4. **Run the game**
 Option 1: VS Code Live Server (Recommended)
-    1. Open the folder in **VS Code**.
-    2. Install the **"Live Server"** extension.
-    3. Right-click on `index.html` and select **"Open with Live Server"**.
-    
+1. Open the folder in **VS Code**.
+2. Install the **"Live Server"** extension.
+3. Right-click on `index.html` and select **"Open with Live Server"**.
+
 Option 2: Direct Open (Quick & Easy)
-    1. Navigate to the project folder.
-    2. Simply **double-click** the `index.html` file to open it in your default web browser.
+1. Navigate to the project folder.
+2. Simply **double-click** the `index.html` file to open it in your default web browser.
 
 ## Screenshots
 
