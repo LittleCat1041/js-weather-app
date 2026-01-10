@@ -28,10 +28,12 @@ A dynamic weather dashboard app that fetches real-time data from the **OpenWeath
     git clone https://github.com/LittleCat1041/js-weather-app.git
     ```
 2. ### **Setup API Key**
+   
 1. Open `index.js`.
 2. Replace the `apikey` variable with your own OpenWeatherMap API key (Free tier).
  ```const apikey = "YOUR_API_KEY_HERE";```
-3. ### **Run the game**
+
+4. ### **Run the game**
 #### Option 1: VS Code Live Server (Recommended)
 1. Open the folder in **VS Code**.
 2. Install the **"Live Server"** extension.
