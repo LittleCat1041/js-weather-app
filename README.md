@@ -23,22 +23,22 @@ A dynamic weather dashboard app that fetches real-time data from the **OpenWeath
 
 ## How to Run
 
-1.  **Clone the repository**
+1. ###**Clone the repository**
     ```bash
     git clone https://github.com/LittleCat1041/js-weather-app.git
     ```
-2.  **Setup API Key**
-    1. Open `index.js`.
-    2. Replace the `apikey` variable with your own OpenWeatherMap API key (Free tier).
-     ```const apikey = "YOUR_API_KEY_HERE";```
-3.  **Run the game**
-    #### Option 1: VS Code Live Server (Recommended)
-    1. Open the folder in **VS Code**.
-    2. Install the **"Live Server"** extension.
-    3. Right-click on `index.html` and select **"Open with Live Server"**.
-    #### Option 2: Direct Open (Quick & Easy)
-    1. Navigate to the project folder.
-    2. Simply **double-click** the `index.html` file to open it in your default web browser.
+2. ###**Setup API Key**
+1. Open `index.js`.
+2. Replace the `apikey` variable with your own OpenWeatherMap API key (Free tier).
+ ```const apikey = "YOUR_API_KEY_HERE";```
+3. ###**Run the game**
+#### Option 1: VS Code Live Server (Recommended)
+1. Open the folder in **VS Code**.
+2. Install the **"Live Server"** extension.
+3. Right-click on `index.html` and select **"Open with Live Server"**.
+#### Option 2: Direct Open (Quick & Easy)
+1. Navigate to the project folder.
+2. Simply **double-click** the `index.html` file to open it in your default web browser.
 
 ## Screenshots
 
