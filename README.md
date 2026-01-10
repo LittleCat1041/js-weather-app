@@ -1,4 +1,4 @@
-# Real-time Weather App
+# JavaScript Real-time Weather App
 
 A dynamic weather dashboard app that fetches real-time data from the **OpenWeatherMap API**. This project demonstrates asynchronous JavaScript programming, API integration, and modern DOM manipulation techniques.
 
